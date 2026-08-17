@@ -1,7 +1,7 @@
 # CTF Arsenal 🛡️
 
 **A POSIX-compliant, modular CTF toolkit in C99 + Python 3**  
-Integrated with **SecLists** (`/home/sunburnz/Desktop/HAckTools/SecLists`)  
+Integrated with **SecLists** 
 Covers: Brute-force · Rainbow Tables · Steganography · Clue Scanning · Protocol Fuzzing · Wordlists
 
 > Public Domain — Unlicense | Built for Manjaro/Arch Linux (GCC 16, Python 3.14)
