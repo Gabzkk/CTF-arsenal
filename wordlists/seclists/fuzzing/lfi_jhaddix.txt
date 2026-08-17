@@ -1,0 +1,1 @@
+../../SecLists/Fuzzing/LFI/LFI-Jhaddix.txt

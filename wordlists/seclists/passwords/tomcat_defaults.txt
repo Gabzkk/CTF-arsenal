@@ -1,0 +1,1 @@
+../../SecLists/Passwords/Default-Credentials/tomcat-betterdefaultpasslist.txt

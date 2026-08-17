@@ -1,0 +1,1 @@
+../../SecLists/Fuzzing/Databases/SQLi/sqli.auth.bypass.txt

@@ -1,0 +1,1 @@
+../../SecLists/Fuzzing/XSS/human-friendly/XSS-Jhaddix.txt

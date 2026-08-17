@@ -1,0 +1,1 @@
+../../SecLists/Passwords/Default-Credentials/cirt-net_collection.txt

@@ -1,0 +1,1 @@
+../../SecLists/Passwords/Common-Credentials/best1050.txt

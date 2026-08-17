@@ -1,0 +1,1 @@
+../../SecLists/Passwords/Common-Credentials/darkweb2017_top-1000.txt

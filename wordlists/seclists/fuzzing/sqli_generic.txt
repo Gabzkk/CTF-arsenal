@@ -1,0 +1,1 @@
+../../SecLists/Fuzzing/Databases/SQLi/Generic-SQLi.txt

@@ -1,0 +1,1 @@
+../../SecLists/Usernames/top-usernames-shortlist.txt

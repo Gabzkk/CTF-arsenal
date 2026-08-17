@@ -1,0 +1,1 @@
+../../SecLists/Fuzzing/Databases/SQLi/quick-SQLi.txt

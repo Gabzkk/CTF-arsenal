@@ -1,0 +1,23 @@
+# Mutation rules: suffix:<val> or prefix:<val>
+# Applied to each base wordlist entry
+suffix:123
+suffix:1234
+suffix:!
+suffix:@
+suffix:#
+suffix:2023
+suffix:2024
+suffix:2025
+suffix:01
+suffix:_
+suffix:.
+suffix:!@#
+suffix:123!
+suffix:@123
+suffix:1!
+prefix:My
+prefix:The
+prefix:Super
+prefix:Mega
+prefix:Ultra
+prefix:_
